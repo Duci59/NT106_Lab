@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|c:\\users\\admin\\source\\repos\\lab1\\lab1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|solutionrelative:lab1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|C:\\Users\\Admin\\source\\repos\\Lab1\\lab1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|solutionrelative:lab1\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|C:\\Users\\Admin\\source\\repos\\Lab1\\lab1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|C:\\Users\\Admin\\source\\repos\\Lab1\\lab1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|solutionrelative:lab1\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|C:\\Users\\Admin\\source\\repos\\Lab1\\lab1\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|solutionrelative:lab1\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|C:\\Users\\Admin\\source\\repos\\Lab1\\lab1\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|solutionrelative:lab1\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|C:\\Users\\Admin\\source\\repos\\Lab1\\lab1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC02D263-D8FC-4DCA-9352-8D6F35122DAB}|Lab1\\Lab1.csproj|solutionrelative:lab1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab1\\Bai1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\Bai1.cs",
+              "RelativeToolTip": "Lab1\\Bai1.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:31:57.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\Bai1.cs",
+              "RelativeDocumentMoniker": "Lab1\\Bai1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\Bai1.cs [Design]",
+              "RelativeToolTip": "Lab1\\Bai1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:31:55.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai5.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\Bai5.cs",
+              "RelativeDocumentMoniker": "Lab1\\Bai5.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\Bai5.cs",
+              "RelativeToolTip": "Lab1\\Bai5.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T20:42:47.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\Bai5.cs",
+              "RelativeDocumentMoniker": "Lab1\\Bai5.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\Bai5.cs [Design]",
+              "RelativeToolTip": "Lab1\\Bai5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:26:07.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\Bai3.cs",
+              "RelativeDocumentMoniker": "Lab1\\Bai3.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\Bai3.cs",
+              "RelativeToolTip": "Lab1\\Bai3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:38:21.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Lab1\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\MainMenu.cs",
+              "RelativeToolTip": "Lab1\\MainMenu.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwBYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:00:52.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Lab1\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\Lab1\\MainMenu.cs [Design]",
+              "RelativeToolTip": "Lab1\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T08:53:51.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
