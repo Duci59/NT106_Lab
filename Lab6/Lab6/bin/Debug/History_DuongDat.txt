@@ -1,0 +1,94 @@
+>>> 10:19:26 AM - DuongDat connected to Server... <<<
+
+
+>>> Connection closed <<<
+
+
+
+
+>>> 10:24:37 AM - DuongDat connected to Server... <<<
+
+Chờ tất cả player sẵn sàng!
+Server: Bat dau di may.
+DuongDat: ga`
+>>> DuongDat đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 9 round
+>>> Round 1: Đoán một số trong khoảng [19, 26].
+DuongDat đoán sai! (22). -1 điểm
+DuongDat đoán sai! (25). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 26.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [26, 72].
+DuongDat đoán sai! (68). -1 điểm
+DuongDat đoán sai! (70). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 38.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [42, 61].
+DuongDat đoán sai! (49). -1 điểm
+DuongDat đoán sai! (46). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 58.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [35, 46].
+DuongDat đoán sai! (35). -1 điểm
+DuongDat đoán sai! (37). -1 điểm
+DuongDat đoán sai! (38). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 41.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [22, 71].
+DuongDat đoán sai! (62). -1 điểm
+DuongDat đoán sai! (29). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 67.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [42, 68].
+DuongDat đoán sai! (67). -1 điểm
+DuongDat đoán sai! (45). -1 điểm
+DuongDat đoán sai! (66). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 65.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [36, 61].
+DuongDat đoán sai! (42). -1 điểm
+DuongDat đoán sai! (43). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 58.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [6, 31].
+DuongDat đoán sai! (25). -1 điểm
+DuongDat đoán sai! (26). -1 điểm
+DuongDat đoán sai! (14). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 11.
+------------------------------
+>>> Round 9: Đoán một số trong khoảng [22, 60].
+DuongDat đoán sai! (47). -1 điểm
+DuongDat đoán sai! (43). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 41.
+------------------------------
+Điểm cao nhất là: -21
+  + DuongDat
+Điểm của bạn: -21
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+
+>>> 10:27:48 AM - DuongDat connected to Server... <<<
+
+
+>>> Connection closed <<<
+
+
+
+

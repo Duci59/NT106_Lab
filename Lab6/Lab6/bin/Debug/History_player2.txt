@@ -1,0 +1,74 @@
+---- 7:13:22 PM - player2 connected to Server... ----
+
+Chờ tất cả player sẵn sàng ... 
+>>> Player 2 vừa vào phòng chơi
+>>> Player 2 đã sẵn sàng!
+>>> player2 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 3 round
+>>> Round 1: Đoán một số trong khoảng [17, 57].
+player2 đoán sai! (19). -1 điểm
+Player 2 đoán sai! (45). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 47.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [12, 52].
+player2 đoán sai! (26). -1 điểm
+Player 2 đoán sai! (31). -1 điểm
+Player 2 đoán sai! (45). -1 điểm
+player2 đoán sai! (25). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 43.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [18, 43].
+player2 đoán sai! (42). -1 điểm
+Player 2 đoán sai! (20). -1 điểm
+player2 đoán sai! (25). -1 điểm
+Player 2 đoán sai! (31). -1 điểm
+player2 đoán sai! (19). -1 điểm
+Player 2 đoán sai! (39). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 29.
+------------------------------
+Điểm cao nhất là: -6
+  + player2
+  + Player 2
+Điểm của bạn: -6
+
+Đang tạo game mới...
+Chờ người chơi sẵn sàng...
+>>> Player 2 đã sẵn sàng!
+>>> player2 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 4 round
+>>> Round 1: Đoán một số trong khoảng [44, 72].
+player2 đoán sai! (61). -1 điểm
+Player 2 đoán sai! (63). -1 điểm
+player2 đoán sai! (58). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 47.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [1, 45].
+Player 2 đoán sai! (2). -1 điểm
+player2 đoán sai! (43). -1 điểm
+player2 đoán sai! (1). -1 điểm
+Player 2 đoán sai! (23). -1 điểm
+player2 đoán sai! (6). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 2
+Player 2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 7.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [27, 36].
+Đã tìm thấy người chơi chiến thắng tại round 3
+player2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 28.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [43, 76].
+player2 đoán sai! (50). -1 điểm
+Player 2 đoán sai! (63). -1 điểm
+
+--- Connection closed <<<
+
+
+
+

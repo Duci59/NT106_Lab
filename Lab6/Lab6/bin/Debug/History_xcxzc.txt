@@ -1,0 +1,24 @@
+>>> 6:47:36 PM - xcxzc connected to Server... <<<
+
+Không ai có đáp án chính xác
+Đáp án là: 38.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [2, 15].
+xcxzc: 7
+Đã tìm thấy người chơi chiến thắng tại round 4
+xcxzc là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 5.
+------------------------------
+Điểm cao nhất là: 20
+  + xcxzc
+Điểm của bạn: 20
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+

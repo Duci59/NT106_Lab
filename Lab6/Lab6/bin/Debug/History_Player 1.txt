@@ -1,0 +1,367 @@
+>>> 6:48:41 PM - Player 1 connected to Server... <<<
+
+Chờ tất cả player sẵn sàng ...Server: cxc
+>>> Player 1 đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 7 round
+>>> Round 1: Đoán một số trong khoảng [22, 48].
+
+>>> Connection closed <<<
+
+
+
+
+>>> 6:59:29 PM - Player 1 connected to Server... <<<
+
+Chờ tất cả player sẵn sàng ...>>> Player 2 vừa vào phòng chơi
+>>> Player 1 đã sẵn sàng!
+>>> Player 2 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 4 round
+>>> Round 1: Đoán một số trong khoảng [25, 70].
+Player 1 đoán sai! (31). -1 điểm
+Player 2 đoán sai! (62). -1 điểm
+Player 1 đoán sai! (26). -1 điểm
+Player 2 đoán sai! (42). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 57.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [44, 79].
+Player 2 đoán sai! (67). -1 điểm
+Player 1 đoán sai! (62). -1 điểm
+Player 2 đoán sai! (46). -1 điểm
+Player 1 đoán sai! (67). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 49.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [24, 59].
+Player 1 đoán sai! (37). -1 điểm
+Player 2 đoán sai! (27). -1 điểm
+Player 2 đoán sai! (55). -1 điểm
+Player 1 đoán sai! (35). -1 điểm
+Player 2 đoán sai! (44). -1 điểm
+Player 1 đoán sai! (32). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 42.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [44, 82].
+Player 1 đoán sai! (74). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 4
+Player 2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 78.
+------------------------------
+Điểm cao nhất là: 3
+  + Player 2
+Điểm của bạn: -8
+
+Đang tạo game mới...
+Chờ người chơi sẵn sàng...
+>>> Player 2 đã sẵn sàng!
+>>> Player 1 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 3 round
+>>> Round 1: Đoán một số trong khoảng [34, 75].
+Player 1 đoán sai! (46). -1 điểm
+Player 2 đoán sai! (47). -1 điểm
+Player 1 đoán sai! (59). -1 điểm
+Player 2 đoán sai! (65). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 57.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [38, 75].
+Player 1 đoán sai! (71). -1 điểm
+Player 2 đoán sai! (47). -1 điểm
+Player 2 đoán sai! (54). -1 điểm
+Player 1 đoán sai! (54). -1 điểm
+Player 2 đoán sai! (71). -1 điểm
+Player 1 đoán sai! (57). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 44.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [29, 69].
+Player 1 đoán sai! (66). -1 điểm
+Player 2 đoán sai! (47). -1 điểm
+Player 2 đoán sai! (41). -1 điểm
+Player 1 đoán sai! (58). -1 điểm
+Player 2 đoán sai! (51). -1 điểm
+Player 1 đoán sai! (57). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 65.
+------------------------------
+Điểm cao nhất là: -8
+  + Player 1
+  + Player 2
+Điểm của bạn: -8
+
+Đang tạo game mới...
+Chờ người chơi sẵn sàng...
+
+>>> Connection closed <<<
+
+
+
+
+---- 7:03:19 PM - Player 1 connected to Server... ----
+
+Chờ tất cả player sẵn sàng ...>>> pcxc vừa vào phòng chơi
+>>> Player 1 đã sẵn sàng!
+>>> pcxc đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 3 round
+>>> Round 1: Đoán một số trong khoảng [8, 43].
+Player 1 đoán sai! (38). -1 điểm
+pcxc đoán sai! (25). -1 điểm
+pcxc đoán sai! (38). -1 điểm
+Player 1 đoán sai! (14). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 32.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [30, 76].
+Player 1 đoán sai! (75). -1 điểm
+pcxc đoán sai! (59). -1 điểm
+pcxc đoán sai! (75). -1 điểm
+Player 1 đoán sai! (71). -1 điểm
+pcxc đoán sai! (35). -1 điểm
+Player 1 đoán sai! (66). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 44.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [11, 41].
+Player 1 đoán sai! (11). -1 điểm
+pcxc đoán sai! (31). -1 điểm
+pcxc đoán sai! (35). -1 điểm
+Player 1 đoán sai! (22). -1 điểm
+pcxc đoán sai! (32). -1 điểm
+Player 1 đoán sai! (25). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 39.
+------------------------------
+Điểm cao nhất là: -8
+  + Player 1
+  + pcxc
+Điểm của bạn: -8
+
+Đang tạo game mới...
+Chờ người chơi sẵn sàng...
+
+--- Connection closed <<<
+
+
+
+
+---- 7:11:48 PM - Player 1 connected to Server... ----
+
+Chờ tất cả player sẵn sàng ...>>> Player 2 vừa vào phòng chơi
+
+--- Connection closed <<<
+
+
+
+
+---- 7:16:02 PM - Player 1 connected to Server... ----
+
+Chờ tất cả player sẵn sàng ... 
+>>> Player 2 vừa vào phòng chơi
+>>> Player 2 đã sẵn sàng!
+>>> Player 1 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 6 round
+>>> Round 1: Đoán một số trong khoảng [34, 69].
+Player 1 đoán sai! (47). -1 điểm
+Player 2 đoán sai! (38). -1 điểm
+Player 1 đoán sai! (54). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 44.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [26, 48].
+Player 1 đoán sai! (44). -1 điểm
+Player 2 đoán sai! (47). -1 điểm
+Player 1 đoán sai! (48). -1 điểm
+Player 2 đoán sai! (44). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 46.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [43, 47].
+Player 2 đoán sai! (43). -1 điểm
+Player 1 đoán sai! (45). -1 điểm
+Player 1 đoán sai! (43). -1 điểm
+Player 2 đoán sai! (46). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 3
+Player 1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 44.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [13, 26].
+Player 1 đoán sai! (22). -1 điểm
+Player 2 đoán sai! (26). -1 điểm
+Player 1 đoán sai! (20). -1 điểm
+Player 2 đoán sai! (21). -1 điểm
+Player 1 đoán sai! (18). -1 điểm
+Player 2 đoán sai! (22). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 15.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [14, 45].
+Player 1 đoán sai! (43). -1 điểm
+Player 2 đoán sai! (19). -1 điểm
+Player 1 đoán sai! (24). -1 điểm
+Player 2 đoán sai! (38). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 23.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [18, 66].
+Player 1 đoán sai! (30). -1 điểm
+Player 2 đoán sai! (65). -1 điểm
+Player 1 đoán sai! (56). -1 điểm
+Player 2 đoán sai! (40). -1 điểm
+Player 1 đoán sai! (55). -1 điểm
+Player 2 đoán sai! (22). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 50.
+------------------------------
+Điểm cao nhất là: -4
+  + Player 1
+Điểm của bạn: -4
+
+Đang tạo game mới...
+Chờ người chơi sẵn sàng...
+Server: vc
+
+--- Connection closed <<<
+
+
+
+
+---- 8:45:45 AM - Player 1 connected to Server... ----
+
+Chờ tất cả player sẵn sàng ... 
+>>> Player 2 vừa vào phòng chơi
+>>> Player 2 đã sẵn sàng!
+>>> Player 1 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 5 round
+>>> Round 1: Đoán một số trong khoảng [14, 30].
+Player 2 đoán sai! (29). -1 điểm
+Player 1 đoán sai! (28). -1 điểm
+Player 2 đoán sai! (26). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 18.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [26, 41].
+Player 1 đoán sai! (34). -1 điểm
+Player 2 đoán sai! (39). -1 điểm
+Player 1 đoán sai! (41). -1 điểm
+Player 2 đoán sai! (34). -1 điểm
+Player 2 đoán sai! (36). -1 điểm
+Player 1 đoán sai! (31). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 30.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [8, 12].
+Đã tìm thấy người chơi chiến thắng tại round 3
+Player 1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 12.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [2, 38].
+Player 1 đoán sai! (32). -1 điểm
+Player 2 đoán sai! (14). -1 điểm
+Player 1 đoán sai! (34). -1 điểm
+Player 2 đoán sai! (22). -1 điểm
+Player 1 đoán sai! (2). -1 điểm
+Player 2 đoán sai! (18). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 29.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [21, 46].
+Player 2 đoán sai! (39). -1 điểm
+Player 1 đoán sai! (27). -1 điểm
+Player 1 đoán sai! (35). -1 điểm
+Player 2 đoán sai! (24). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 23.
+------------------------------
+Điểm cao nhất là: 1
+  + Player 1
+Điểm của bạn: 1
+
+Đang tạo game mới...
+Chờ người chơi sẵn sàng...
+>>> Player 2 đã thoát khỏi game
+
+--- Connection closed <<<
+
+
+
+
+---- 8:47:54 AM - Player 1 connected to Server... ----
+
+Chờ tất cả player sẵn sàng ... 
+>>> Player 2 vừa vào phòng chơi
+>>> Player 2 đã sẵn sàng!
+>>> Player 1 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 6 round
+>>> Round 1: Đoán một số trong khoảng [13, 22].
+Player 2 đoán sai! (13). -1 điểm
+Player 1 đoán sai! (17). -1 điểm
+Player 2 đoán sai! (21). -1 điểm
+Player 1 đoán sai! (20). -1 điểm
+Player 2 đoán sai! (18). -1 điểm
+Player 1 đoán sai! (18). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 16.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [21, 41].
+Player 2 đoán sai! (27). -1 điểm
+Player 1 đoán sai! (23). -1 điểm
+Player 2 đoán sai! (30). -1 điểm
+Player 1 đoán sai! (22). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 38.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [15, 27].
+Player 2 đoán sai! (25). -1 điểm
+Player 1 đoán sai! (17). -1 điểm
+Player 1 đoán sai! (26). -1 điểm
+Player 2 đoán sai! (20). -1 điểm
+Player 2 đoán sai! (18). -1 điểm
+Player 1 đoán sai! (25). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 27.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [7, 32].
+Player 2 đoán sai! (23). -1 điểm
+Player 1 đoán sai! (32). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 4
+Player 1 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 25.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [37, 46].
+Player 1 đoán sai! (41). -1 điểm
+Player 2 đoán sai! (44). -1 điểm
+Player 1 đoán sai! (46). -1 điểm
+Player 2 đoán sai! (41). -1 điểm
+Player 1 đoán sai! (39). -1 điểm
+Đã tìm thấy người chơi chiến thắng tại round 5
+Player 2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 40.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [47, 77].
+Player 2 đoán sai! (61). -1 điểm
+Player 1 đoán sai! (67). -1 điểm
+Player 1 đoán sai! (68). -1 điểm
+Player 2 đoán sai! (67). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 75.
+------------------------------
+Điểm cao nhất là: -3
+  + Player 2
+Điểm của bạn: -4
+
+Đang tạo game mới...
+Chờ người chơi sẵn sàng...
+
+--- Connection closed <<<
+
+
+
+

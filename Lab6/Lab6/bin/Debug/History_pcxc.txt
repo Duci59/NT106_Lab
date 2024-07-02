@@ -1,0 +1,47 @@
+---- 7:03:27 PM - pcxc connected to Server... ----
+
+Chờ tất cả player sẵn sàng ...>>> Player 1 đã sẵn sàng!
+>>> pcxc đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 3 round
+>>> Round 1: Đoán một số trong khoảng [8, 43].
+Player 1 đoán sai! (38). -1 điểm
+pcxc đoán sai! (25). -1 điểm
+pcxc đoán sai! (38). -1 điểm
+Player 1 đoán sai! (14). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 32.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [30, 76].
+Player 1 đoán sai! (75). -1 điểm
+pcxc đoán sai! (59). -1 điểm
+pcxc đoán sai! (75). -1 điểm
+Player 1 đoán sai! (71). -1 điểm
+pcxc đoán sai! (35). -1 điểm
+Player 1 đoán sai! (66). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 44.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [11, 41].
+Player 1 đoán sai! (11). -1 điểm
+pcxc đoán sai! (31). -1 điểm
+pcxc đoán sai! (35). -1 điểm
+Player 1 đoán sai! (22). -1 điểm
+pcxc đoán sai! (32). -1 điểm
+Player 1 đoán sai! (25). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 39.
+------------------------------
+Điểm cao nhất là: -8
+  + Player 1
+  + pcxc
+Điểm của bạn: -8
+
+Đang tạo game mới...
+Chờ người chơi sẵn sàng...
+
+--- Connection closed <<<
+
+
+
+

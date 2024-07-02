@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NT106_TH\\Lab6\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|d:\\nt106_th\\lab6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|D:\\NT106_TH\\Lab6\\Lab6\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|D:\\NT106_TH\\Lab6\\Lab6\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|d:\\nt106_th\\lab6\\lab6\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|d:\\nt106_th\\lab6\\lab6\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|d:\\nt106_th\\lab6\\lab6\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|d:\\nt106_th\\lab6\\lab6\\mainplay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:mainplay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|d:\\nt106_th\\lab6\\lab6\\mainplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:mainplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|d:\\nt106_th\\lab6\\lab6\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|D:\\NT106_TH\\Lab6\\Lab6\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|d:\\nt106_th\\lab6\\lab6\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|d:\\nt106_th\\lab6\\lab6\\history.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:history.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|d:\\nt106_th\\lab6\\lab6\\mainplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B8B7748-2B61-46BB-8D2E-39E51FF5F031}|Lab6.csproj|solutionrelative:mainplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:45:10.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:44:56.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:44:52.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:44:48.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPlay.Designer.cs",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\MainPlay.Designer.cs",
+              "RelativeDocumentMoniker": "MainPlay.Designer.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\MainPlay.Designer.cs",
+              "RelativeToolTip": "MainPlay.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:44:41.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\History.cs",
+              "RelativeDocumentMoniker": "History.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\History.cs [Design]",
+              "RelativeToolTip": "History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:20:46.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\MainMenu.cs [Design]",
+              "RelativeToolTip": "MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:19:50.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPlay.cs",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\MainPlay.cs",
+              "RelativeDocumentMoniker": "MainPlay.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\MainPlay.cs",
+              "RelativeToolTip": "MainPlay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:44:36.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenu.Designer.cs",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\MainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "MainMenu.Designer.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\MainMenu.Designer.cs",
+              "RelativeToolTip": "MainMenu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:44:31.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "History.cs",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\History.cs",
+              "RelativeDocumentMoniker": "History.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\History.cs",
+              "RelativeToolTip": "History.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:44:18.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "History.Designer.cs",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\History.Designer.cs",
+              "RelativeDocumentMoniker": "History.Designer.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\History.Designer.cs",
+              "RelativeToolTip": "History.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T01:44:08.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPlay.cs [Design]",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\MainPlay.cs",
+              "RelativeDocumentMoniker": "MainPlay.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\MainPlay.cs [Design]",
+              "RelativeToolTip": "MainPlay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:21:52.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\NT106_TH\\Lab6\\Lab6\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "D:\\NT106_TH\\Lab6\\Lab6\\MainMenu.cs",
+              "RelativeToolTip": "MainMenu.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:20:48.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

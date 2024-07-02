@@ -1,0 +1,40 @@
+>>> 6:45:26 PM - cxc connected to Server... <<<
+
+Chờ tất cả player sẵn sàng ...cxc: czxczx
+Server: zxcvxzv
+>>> cxc đã sẵn sàng!
+Hiện có 1 người chơi
+Trò chơi có 5 round
+>>> Round 1: Đoán một số trong khoảng [42, 68].
+Không ai có đáp án chính xác
+Đáp án là: 51.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [2, 39].
+Không ai có đáp án chính xác
+Đáp án là: 30.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [19, 32].
+Không ai có đáp án chính xác
+Đáp án là: 19.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [36, 50].
+Không ai có đáp án chính xác
+Đáp án là: 43.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [19, 66].
+Không ai có đáp án chính xác
+Đáp án là: 41.
+------------------------------
+Điểm cao nhất là: 0
+  + cxc
+Điểm của bạn: 0
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+

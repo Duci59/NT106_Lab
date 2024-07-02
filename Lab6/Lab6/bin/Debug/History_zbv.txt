@@ -1,0 +1,79 @@
+>>> 6:55:10 PM - zbv connected to Server... <<<
+
+Chờ tất cả player sẵn sàng ...>>> Player 2 vừa vào phòng chơi
+Server: zxcxz
+zbv: zxcxz
+Player 2: cxvcxv
+>>> zbv đã sẵn sàng!
+>>> Player 2 đã sẵn sàng!
+Hiện có 2 người chơi
+Trò chơi có 8 round
+>>> Round 1: Đoán một số trong khoảng [12, 20].
+Player 2 đoán sai! (1). -1 điểm
+zbv đoán sai! (2). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 16.
+------------------------------
+>>> Round 2: Đoán một số trong khoảng [12, 55].
+zbv đoán sai! (4). -1 điểm
+Player 2 đoán sai! (5). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 27.
+------------------------------
+>>> Round 3: Đoán một số trong khoảng [47, 57].
+zbv đoán sai! (1). -1 điểm
+Player 2 đoán sai! (2). -1 điểm
+Player 2 đoán sai! (3). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 56.
+------------------------------
+>>> Round 4: Đoán một số trong khoảng [22, 46].
+Player 2 đoán sai! (34). -1 điểm
+zbv đoán sai! (3). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 25.
+------------------------------
+>>> Round 5: Đoán một số trong khoảng [11, 13].
+Đã tìm thấy người chơi chiến thắng tại round 5
+Player 2 là người chơi đưa ra đáp án nhanh nhất, +10 điểm
+Đáp án là: 12.
+------------------------------
+>>> Round 6: Đoán một số trong khoảng [44, 67].
+zbv đoán sai! (44). -1 điểm
+Player 2 đoán sai! (56). -1 điểm
+Player 2 đoán sai! (63). -1 điểm
+zbv đoán sai! (51). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 66.
+------------------------------
+>>> Round 7: Đoán một số trong khoảng [8, 54].
+Player 2 đoán sai! (42). -1 điểm
+zbv đoán sai! (21). -1 điểm
+zbv đoán sai! (12). -1 điểm
+Player 2 đoán sai! (24). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 8.
+------------------------------
+>>> Round 8: Đoán một số trong khoảng [16, 35].
+zbv đoán sai! (30). -1 điểm
+Player 2 đoán sai! (33). -1 điểm
+zbv đoán sai! (29). -1 điểm
+Player 2 đoán sai! (19). -1 điểm
+Player 2 đoán sai! (23). -1 điểm
+zbv đoán sai! (28). -1 điểm
+Không ai có đáp án chính xác
+Đáp án là: 20.
+------------------------------
+Điểm cao nhất là: -2
+  + Player 2
+Điểm của bạn: -11
+=================
+
+Tạo game mới...
+Chờ người chơi tham gia...
+
+>>> Connection closed <<<
+
+
+
+
